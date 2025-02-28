@@ -6,5 +6,3 @@ feature :
 - nmap
 - recherche de VHOST
 - recherche de subdomain
-- Nkto
-- enum4linux
